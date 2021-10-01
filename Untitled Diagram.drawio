@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T15:18:19.761Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.4.1" etag="uxWI7j6gd2Tjhr5fe1Gi" type="github"><diagram id="qlISP1Srwu-0KwlcMQMG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-01T17:04:18.946Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="CVzy11ew2I-aGe8dtaff" version="15.4.1" type="github">
+  <diagram id="qlISP1Srwu-0KwlcMQMG" name="Page-1">
+    <mxGraphModel dx="1019" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G3IcAJRC7sJN-yx-Axdc-2" value="Alimentos" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="140" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="G3IcAJRC7sJN-yx-Axdc-3" value="str nome&lt;br&gt;int quantidade&lt;br&gt;str marca&lt;br&gt;char tipo (Organico, etc)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="G3IcAJRC7sJN-yx-Axdc-2">
+          <mxGeometry y="29" width="140" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="G3IcAJRC7sJN-yx-Axdc-4" value="stereotype property 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="G3IcAJRC7sJN-yx-Axdc-2">
+          <mxGeometry y="130" width="140" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
